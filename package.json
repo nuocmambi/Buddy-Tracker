@@ -1,0 +1,38 @@
+{
+  "name": "onlineshop",
+  "version": "1.0.0",
+  "description": "simple login system",
+  "main": "app.js",
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "^1.4.1",
+    "express": "*",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "mongoose-friends": "^0.2.3",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*",
+    "socket.io":"*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuocmambi/Project-online-shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuocmambi/Project-online-shop/issues"
+  },
+  "homepage": "https://github.com/nuocmambi/Project-online-shop#readme"
+}
